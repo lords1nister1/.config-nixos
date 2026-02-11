@@ -1,0 +1,4 @@
+[nix_shell]
+symbol = " "
+style = "fg:fg_3 bg:bg_3"
+format = '[$symbol $version ]($style)'

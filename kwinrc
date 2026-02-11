@@ -9,6 +9,8 @@ Rows=1
 
 [Plugins]
 poloniumEnabled=true
+translucencyEnabled=true
+wobblywindowsEnabled=true
 
 [Tiling]
 padding=4
@@ -23,7 +25,7 @@ tiles={"layoutDirection":"floating","tiles":[]}
 tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Tiling][d6851900-0dd6-4806-9357-4b2c79326fc8][c52c523f-1c68-493a-8859-a5661fbd5935]
-tiles={"layoutDirection":"horizontal","tiles":[]}
+tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][d6e04a1e-d9e6-4e87-be2b-88c855c3b86d][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
 tiles={"layoutDirection":"horizontal","tiles":[]}
@@ -32,7 +34,7 @@ tiles={"layoutDirection":"horizontal","tiles":[]}
 tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"horizontal","tiles":[]}
+tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}
@@ -45,3 +47,9 @@ tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Xwayland]
 Scale=1.5
+
+[org.kde.kdecoration2]
+BorderSize=None
+BorderSizeAuto=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Utterly-Round-Dark
