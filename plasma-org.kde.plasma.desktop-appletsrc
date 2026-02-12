@@ -9,6 +9,7 @@ RightButton;NoModifier=org.kde.contextmenu
 ItemGeometries-1707x1067=
 ItemGeometries-1708x1068=
 ItemGeometries-1953x1098=
+ItemGeometries-2560x1600=
 ItemGeometriesHorizontal=
 activityId=dab71de1-5a3b-4d76-b5e4-8cce7dfee319
 formfactor=0
@@ -81,7 +82,7 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][27][Applets][55][Configuration]
-PreloadWeight=95
+PreloadWeight=100
 popupHeight=400
 popupWidth=560
 

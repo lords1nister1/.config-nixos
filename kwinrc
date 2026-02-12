@@ -12,11 +12,14 @@ poloniumEnabled=true
 translucencyEnabled=true
 wobblywindowsEnabled=true
 
+[Round-Corners]
+Size=15
+
 [Tiling]
 padding=4
 
 [Tiling][3c52ea49-f28a-4091-bce3-54cf80ea5056][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"floating","tiles":[]}
+tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Tiling][3c52ea49-f28a-4091-bce3-54cf80ea5056][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}
@@ -28,13 +31,16 @@ tiles={"layoutDirection":"horizontal","tiles":[]}
 tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][d6e04a1e-d9e6-4e87-be2b-88c855c3b86d][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"floating","tiles":[]}
+tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Tiling][d6e04a1e-d9e6-4e87-be2b-88c855c3b86d][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}
 
+[Tiling][e5ae5f20-2c3a-5283-8766-6d6c5b928523]
+tiles={"layoutDirection":"horizontal","tiles":[]}
+
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"floating","tiles":[]}
+tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}

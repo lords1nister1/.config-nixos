@@ -1,3 +1,6 @@
 [Libinput][1452][627][bcm5974]
 DisableWhileTyping=false
 LeftHanded=false
+
+[Mouse]
+X11LibInputXAccelProfileFlat=true
