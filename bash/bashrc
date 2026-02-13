@@ -1,0 +1,30 @@
+fastfetch
+
+alias ssn='sudo shutdown now'
+alias gup='git add . && git commit -m "commit number idk" && git push'
+alias fks='flatpak kill com.github.KRTirtho.Spotube'
+alias fkd='flatpak kill com.discordapp.Discord'
+alias gc='sudo nix-collect-garbage -d'
+alias nixconf='sudo nano /nixos/configuration.nix'
+alias cswitch='sudo nixos-rebuild switch -I nixos-config=/home/user/nixos/configuration.nix'
+alias nixtest='sudo nixos-rebuild test'
+alias nixreboot='sudo nixos-rebuild switch --rollback'
+alias gens='sudo nix-env --list-generations --profile /nix/var/nix/profiles/system'
+alias flakerebuild='sudo nixos-rebuild switch --flake .#nixos'
+alias flakes='cd /etc/nixos/'
+alias livefetch='fastfetch --dynamic-interval 500'
+alias fishy='asciiquarium'
+alias pipes='pipes-rs'
+alias mem='free -h'
+alias ls='eza --icons'
+alias bash='sudo nano .bashrc'
+alias sbash='source .bashrc'
+alias ..='cd ..'
+alias ...='cd ../../'
+alias ~='cd ~'
+alias home='cd ~'
+alias dl='cd ~/Downloads'
+eval "$(starship init bash)"
+GREY=$(tput setaf 242)
+RED=$(tput setaf 1)
+RESET=$(tput sgr0)
