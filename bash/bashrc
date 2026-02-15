@@ -16,7 +16,7 @@ alias ~='cd ~'
 alias home='cd ~'
 alias dl='cd ~/Downloads'
 alias cfg='cd ~/.config'
-alias nix='cd ~/nixos/'
+alias n='cd ~/nixos/'
 
 alias gu='git add .'
 alias gp='git push'
@@ -42,6 +42,8 @@ alias livefetch='fastfetch --dynamic-interval 500'
 alias fishy='asciiquarium'
 alias pipes='pipes-rs'
 
+
+alias pg='ping google.com'
 alias sf='superfile'
 alias bash='sudo nvim .bashrc'
 alias sbash='source .bashrc'
