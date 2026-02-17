@@ -91,6 +91,7 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][27][Applets][57][Configuration]
+PreloadWeight=55
 popupHeight=400
 popupWidth=560
 
@@ -102,7 +103,7 @@ immutability=1
 plugin=plasmusic-toolbar
 
 [Containments][27][Applets][60][Configuration]
-PreloadWeight=80
+PreloadWeight=85
 popupHeight=484
 popupWidth=556
 

@@ -19,7 +19,7 @@ Size=15
 padding=4
 
 [Tiling][3c52ea49-f28a-4091-bce3-54cf80ea5056][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"horizontal","tiles":[]}
+tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][3c52ea49-f28a-4091-bce3-54cf80ea5056][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}
@@ -40,7 +40,7 @@ tiles={"layoutDirection":"floating","tiles":[]}
 tiles={"layoutDirection":"horizontal","tiles":[]}
 
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][3dec7a96-2995-4d96-9421-ffb5a98c43fa]
-tiles={"layoutDirection":"horizontal","tiles":[]}
+tiles={"layoutDirection":"floating","tiles":[]}
 
 [Tiling][fd39053b-bccc-4b8b-a2e0-5d04fa9fa856][c52c523f-1c68-493a-8859-a5661fbd5935]
 tiles={"layoutDirection":"floating","tiles":[]}
