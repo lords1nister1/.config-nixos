@@ -8,41 +8,33 @@ RESET=$(tput sgr0)
 
 alias ls='eza --icons'
 alias cat='bat'
-
-alias ..='cd ..'
-alias ...='cd ../../'
+alias e='exit'
+alias .='cd ..'
+alias ..='cd ../../'
 alias ~='cd ~'
 alias home='cd ~'
 alias dl='cd ~/Downloads'
 alias cf='cd ~/.config'
 alias n='cd ~/nixos/'
-
 alias gu='git add .'
 alias gp='git push'
 alias gup='git add . && git commit -m "commit number idk" && git push'
-
 alias f='nvim ~/nixos/flake.nix'
 alias c='nvim ~/nixos/configuration.nix'
-alias cs='sudo nixos-rebuild switch -I nixos-config=/home/user/nixos/configuration.nix'
 alias nixtest='sudo nixos-rebuild test'
 alias nixreboot='sudo nixos-rebuild switch --rollback'
-alias fs='sudo nixos-rebuild switch --flake .#nixos'
+alias rebuild='sudo nixos-rebuild switch --flake .#nixos'
 alias gens='sudo nix-env --list-generations --profile /nix/var/nix/profiles/system'
 alias cg='sudo nix-collect-garbage'
 alias ns='nix-search'
-
 alias fks='flatpak kill com.github.KRTirtho.Spotube'
 alias fkd='flatpak kill com.discordapp.Discord'
-
 alias sn='shutdown now'
-alias iotop='sudo iotop'
+# alias iotop='sudo iotop'
 alias mem='free -h'
-
 alias livefetch='fastfetch --dynamic-interval 500'
 alias fishy='asciiquarium'
 alias pipes='pipes-rs'
-
-
 alias pg='ping google.com'
 alias sf='superfile'
 alias bash='sudo nvim ~/.bashrc'

@@ -43,13 +43,15 @@ plugin=org.kde.plasma.marginsseparator
 immutability=1
 plugin=org.kde.plasma.lock_logout
 
+[Containments][27][Applets][50][Configuration][General]
+actionsOrder=lockScreen,switchUser,requestShutDown,requestReboot,requestLogout,requestLogoutScreen,suspendToRam,suspendToDisk
+
 [Containments][27][Applets][52]
 immutability=1
 plugin=org.kde.plasma.systemmonitor.cpu
 
 [Containments][27][Applets][52][Configuration]
 CurrentPreset=org.kde.plasma.systemmonitor
-PreloadWeight=55
 popupHeight=400
 popupWidth=560
 
@@ -82,7 +84,6 @@ immutability=1
 plugin=org.kde.plasma.networkmanagement
 
 [Containments][27][Applets][55][Configuration]
-PreloadWeight=100
 popupHeight=400
 popupWidth=560
 
@@ -91,7 +92,6 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][27][Applets][57][Configuration]
-PreloadWeight=55
 popupHeight=400
 popupWidth=560
 
@@ -103,7 +103,6 @@ immutability=1
 plugin=plasmusic-toolbar
 
 [Containments][27][Applets][60][Configuration]
-PreloadWeight=85
 popupHeight=484
 popupWidth=556
 

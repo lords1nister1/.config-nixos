@@ -1,8 +1,14 @@
 autologin.blob="8McDSKNNK2y3rxyogcOCndiXbmWbFsYHTegiimp3Tp65YY2fGxlhgvGUMftnStT0YqI60fDwDYElbJuefs9LBC9mORUXvLRBetd9pN4e0bOnxjUuaTx9rtjTb7xD55AjrobfP7ITTotwCztXDEiFLszX8RHpI3rMlejIYYwzTXk81Mj3OMun1Ii9XgvBmJo90K6GS0ZsmpIPpKfXLYz8DfhMqoCgSTPV0vSSbE7XGD8M9AuHh0He8Ruw719nslSUdVgjS7FmiTBnbdM2bRjMS/rOiOIgnLuxWfr3JGuHyk+E3yTixRVylArF5L1R+MQG"
 autologin.canonical_username="31cef4idf7xpgjuydbq25d4wpsai"
 autologin.saved_credentials="{\"31cef4idf7xpgjuydbq25d4wpsai\":[\"31cef4idf7xpgjuydbq25d4wpsai\",\"8McDSKNNK2y3rxyogcOCndiXbmWbFsYHTegiimp3Tp65YY2fGxlhgvGUMftnStT0YqI60fDwDYElbJuefs9LBC9mORUXvLRBetd9pN4e0bOnxjUuaTx9rtjTb7xD55AjrobfP7ITTotwCztXDEiFLszX8RHpI3rMlejIYYwzTXk81Mj3OMun1Ii9XgvBmJo90K6GS0ZsmpIPpKfXLYz8DfhMqoCgSTPV0vSSbE7XGD8M9AuHh0He8Ruw719nslSUdVgjS7FmiTBnbdM2bRjMS/rOiOIgnLuxWfr3JGuHyk+E3yTixRVylArF5L1R+MQG\"]}"
+app.window.state.saved=true
+app.window.position.width=1699
 es.send-on-startup=true
 core.clock_delta=0
+app.window.position.x=4
 autologin.username="31cef4idf7xpgjuydbq25d4wpsai"
+app.window.position.saved=true
+app.window.position.height=1059
+app.window.position.y=4
 storage.last-location="/home/user/.cache/spotify/Storage"
 app.last-launched-version="1.2.74.477.g3be53afe"
